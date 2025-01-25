@@ -11,7 +11,7 @@ Here're some of the project's best features:
 *   <strong>TOTP Generation:</strong> Generates Time-Based One-Time Passwords (TOTP) using the provided secret key.
 *   <strong>Google Authenticator Compatibility:</strong> Uses the Google Authenticator library to ensure compatibility with most TOTP-based 2FA systems.
 *   <strong>Copy to Clipboard:</strong> Easily copy the generated TOTP code to the clipboard with a single click.
-
+<img src="imgs/Screenshot from 2025-01-25 15-57-10.png">
 <h2>🛠️ Installation Steps:</h2>
 
 ```
@@ -28,7 +28,7 @@ mvn clean javafx:run
 
 <h2><strong> - Use:</strong></h2>
 <p>You can name the account in the "Account label", which should be unique. The "key phrase" is the key that will be used to generate the TOTP.</p>
-
+<img src="imgs/Screenshot from 2025-01-25 14-21-00.png">
 <h2>🔴 Notice:</h2>
 <p>In SayOTP, I currently store information as<strong> [Account label:keyPhrase]</strong> in a file called <strong>data.sayOTP</strong> as an initial method. You can access your credentials in this file. This will be changed in the upcoming version.</p>
 <h2>Contributing</h2>
