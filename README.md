@@ -13,6 +13,7 @@ Here're some of the project's best features:
 *   <strong>Copy to Clipboard:</strong> Easily copy the generated TOTP code to the clipboard with a single click.
 <img src="imgs/Screenshot from 2025-01-25 15-57-10.png">
 <h2>🛠️ Installation Steps:</h2>
+<h3>Requirements: <strong>Java 17+</strong> and <strong>Maven</strong>.</h3>
 
 ```
 git clone https://github.com/Sayouti1/sayOTP.git
